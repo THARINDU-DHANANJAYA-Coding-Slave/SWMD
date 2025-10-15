@@ -15,7 +15,7 @@ Perfect for gamers, server hosts, and modpack creators who want to save time man
 #### 🖥️ Usage
 
 ```bash
-python swmd.py
+python SWMD.py
 ```
 
 Then simply enter your **Steam Workshop collection URL** or **mod link**, and SWMD handles the rest!
@@ -23,9 +23,7 @@ Then simply enter your **Steam Workshop collection URL** or **mod link**, and SW
 #### 📜 Requirements
 
 * Python 3.8+
-* `requests`
-* `beautifulsoup4`
-* (optional) `steamcmd` for official downloads
+* other requirments will automaticly install it self after the run
 
 #### 💡 Example
 
